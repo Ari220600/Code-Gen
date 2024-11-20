@@ -1,3 +1,3 @@
-#Pre rquisite
+# Pre rquisite
 
 https://ollama.com/
